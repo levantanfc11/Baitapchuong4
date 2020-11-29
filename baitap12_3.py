@@ -1,5 +1,4 @@
 import random
-n = random.randrange(50,1000)
 A = []
 for i in range(n):
     rd_str = ''
