@@ -1,4 +1,5 @@
 import random
+n = random.randint(50,1000)
 A = []
 for i in range(n):
     rd_str = ''
